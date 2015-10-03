@@ -18,10 +18,10 @@ Interfaz q- página web -> (asignaturas,usuarios(foros),subir archivos nube)
 1. Parte nube, alojamiento archivos, sftp. Metemos en la web y hacemos esa parte. Permitir subir archivos a la web.
 
 2. Parte base de datos, ordenar asignaturas, usuarios, nombres, grupos, archivos. Encima la web, sección básicamente registrarse.
-Montar base de datos en el servidor,enlazar asignaturas, grupos, usuarios, archivos.
+Montar base de datos en el servidor, enlazar asignaturas, grupos, usuarios, archivos.
 Permitir registro y inicio de sesion de usuarios.
 
-3. Parte usuarios, permitir foros, ordenar asignaturas,ordenar por usuarios. Interfaz.
+3. Parte usuarios, permitir foros, ordenar asignaturas, ordenar por usuarios. Interfaz.
 
 
 #Maquinas virtuales#
