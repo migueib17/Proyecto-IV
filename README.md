@@ -4,9 +4,9 @@
 PLATAFORMA ACADÉMICA UNIVERSITARIA Y COMPARTICIÓN DE CONOCIMIENTOS#
 
 ###Participantes###
-- Rafael Lachica Garrido
-- Rubén Martín Hidalgo
-- Miguel Ferńandez Fernández
+- Rafael Lachica Garrido.
+- Rubén Martín Hidalgo.
+- Miguel Ferńandez Fernández.
 
 ##Introducción##
 
